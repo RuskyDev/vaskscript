@@ -17,6 +17,6 @@ VaskScript provides a straightforward way to automate tasks and create scripts u
 - VAR - Declares a variable. Usage: VAR <variable_name> <value>
 - INPUT - Prompts the user to enter a value and assigns it to a variable. Usage: INPUT <variable_name>
   
-  ## [✅] Projects that people made!
+  ## Projects that people made
   
-  - 📃 [Shitty Quiz](https://google.com)
+  - 📃 [Shitty Quiz](https://github.com/uhlolnot123/shitty-quiz-for-vaskscript)
