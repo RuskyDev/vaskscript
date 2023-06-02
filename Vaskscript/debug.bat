@@ -1,0 +1,1 @@
+start python.exe vask.py main.vs
