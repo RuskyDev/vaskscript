@@ -7,7 +7,7 @@ VaskScript is a simple scripting language designed for basic automation tasks an
 VaskScript provides a straightforward way to automate tasks and create scripts using a syntax similar to batch scripting. It offers commands for printing text, clearing the screen, pausing execution, running files or URLs, and managing variables.
 
 ## Commands line parameters
-- --help - shows help stuff for this script
+- **--help** - shows help stuff for this script
 
 ## Syntax
 - PRINT - Prints text on the screen. Use PRINT alone to add a line break.
