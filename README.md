@@ -16,3 +16,7 @@ VaskScript provides a straightforward way to automate tasks and create scripts u
 - RUN - Opens a file or URL in the user's preferred application.
 - VAR - Declares a variable. Usage: VAR <variable_name> <value>
 - INPUT - Prompts the user to enter a value and assigns it to a variable. Usage: INPUT <variable_name>
+  
+  ## [✅] Projects that people made!
+  
+  - 📃 [Shitty Quiz](https://google.com)
