@@ -1,6 +1,6 @@
 # VaskScript
 
-VaskScript is a simple scripting language designed for basic automation tasks and scripting in Python.
+VaskScript is a simple scripting language designed for basic automation tasks and scripting!
 
 ## Overview
 
